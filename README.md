@@ -1,2 +1,2 @@
-# cams426
+# cmsc426
 Introduction to Computer Vision
